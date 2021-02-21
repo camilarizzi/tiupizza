@@ -178,6 +178,9 @@
          <option value="Ilha de Balli = 5,00"></option>
          <option value="Maria Bush Modenes = 4,00"></option>
          <option value="St Adelia = 5,00"></option>
+         <option value= "Palmeira Real = 5,00"></option>
+         <option value="Sao Geraldo = 4,00"></option>
+
 
      </datalist>
      </div>
@@ -195,6 +198,7 @@
          <option value="PROVOLONE = 4,00"></option>
          <option value="OVO - 2,00"></option>
          <option value="TOMATE = 2,00"></option>
+         <option value="CATUPIRY = 4,00"></option>
          </datalist>
         </div>
          </form>
