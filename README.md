@@ -137,7 +137,7 @@
          <option value="Ragazzo = 2,00"></option>
          <option value="Boa Vista = 2,00"></option>
          <option value="Bela Vista = 2,00"></option>
-         <option value="Chacara Sao Jose = 0"></option>
+         <option value="Chacara Sao Jose = 2,00"></option>
          <option value="Aeroporto = 5,00"></option>
          <option value="Sao Luis = 4,00"></option>
          <option value="Limeiranea = 4,00"></option>
@@ -180,6 +180,10 @@
          <option value="St Adelia = 5,00"></option>
          <option value= "Palmeira Real = 5,00"></option>
          <option value="Sao Geraldo = 4,00"></option>
+         <option value="Santina = 5,00"></option>
+         <option value="St Josefa = 4,00"></option>
+         <option value="Barao de Limeira = 5,00"></option>
+         <option value="Nss Sra do Amparo = 4,00"></option>
 
 
      </datalist>
